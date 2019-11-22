@@ -12,7 +12,7 @@ def fun(n):
     # x = np.linspace(-1, 1, 1000)
     y = x**n
 
-# plt.grid('on')
+# plt.grid('on') :
 # plt.ylim(0, 2)
 # plt.xlim(0, 2)
 #plt.plot([1, 2, 3, 4])
