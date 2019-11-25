@@ -1,2 +1,4 @@
-# Mac_3d_semester
-R2
+# Mac_3rd_semester
+
+Assiment 2 : Numerical solution for 2d Linear optimization
+
